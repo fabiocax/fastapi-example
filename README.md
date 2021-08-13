@@ -13,6 +13,6 @@ git clone https://github.com/fabiocax/fastapi-example.git
 
 cd fastapi-example/
 
-pip3 install requirements.txt
+pip3 install -r requirements.txt
 
 uvicorn main:app
